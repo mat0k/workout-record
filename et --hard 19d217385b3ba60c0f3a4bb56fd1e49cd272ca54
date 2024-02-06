@@ -1,0 +1,32 @@
+[33m6fab762[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{0}: reset: moving to 6fab7628ba9e37076df4716bddd255773c9a78aa
+[33mbddc5b8[m HEAD@{1}: revert: Revert "before adding image"
+[33m19d2173[m HEAD@{2}: reset: moving to 19d217385b3ba60c0f3a4bb56fd1e49cd272ca54
+[33mbf53dd3[m HEAD@{3}: reset: moving to bf53dd33aa9c6a15e19f17cf92973d8a7055130b
+[33mbf53dd3[m HEAD@{4}: reset: moving to bf53dd33aa9c6a15e19f17cf92973d8a7055130b
+[33mbf53dd3[m HEAD@{5}: reset: moving to bf53dd33aa9c6a15e19f17cf92973d8a7055130b
+[33mbf53dd3[m HEAD@{6}: commit: before adding image
+[33m19d2173[m HEAD@{7}: reset: moving to 19d217385b3ba60c0f3a4bb56fd1e49cd272ca54
+[33m19d2173[m HEAD@{8}: reset: moving to 19d217385b3ba60c0f3a4bb56fd1e49cd272ca54
+[33m19d2173[m HEAD@{9}: commit: before adding image
+[33m6fab762[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m HEAD@{10}: commit: image button added, add check boxes when adding workout, remove add button in history
+[33m3dbec0b[m HEAD@{11}: reset: moving to 3dbec0b35e46ef116d2596b7d90aba30d6fcec07
+[33m3dbec0b[m HEAD@{12}: reset: moving to 3dbec0b35e46ef116d2596b7d90aba30d6fcec07
+[33m3dbec0b[m HEAD@{13}: commit: before adding images button2
+[33m4d7c72c[m HEAD@{14}: commit: before adding images button
+[33m2bfbbed[m HEAD@{15}: commit: before adding get last exercise
+[33m0ca73cb[m HEAD@{16}: commit: personal record added, data base finished
+[33mdb28165[m HEAD@{17}: commit: before adding personal records
+[33m8bab13c[m HEAD@{18}: commit: data base added, before changing interface in exercise
+[33m04c21af[m HEAD@{19}: commit: add data base for training days and exercises
+[33m4f09b33[m HEAD@{20}: reset: moving to 4f09b33f04d6407788c97b62a35153509875eabe
+[33m4f09b33[m HEAD@{21}: commit: before add database
+[33m74d0d25[m HEAD@{22}: revert: Revert "Revert "Revert "Revert "create exercises object and adapter""""
+[33mccbe447[m HEAD@{23}: revert: Revert "Revert "Revert "create exercises object and adapter"""
+[33m2e5c00e[m HEAD@{24}: revert: Revert "Revert "create exercises object and adapter""
+[33m6afc74f[m HEAD@{25}: revert: Revert "create exercises object and adapter"
+[33m779eb8e[m HEAD@{26}: commit: create exercises object and adapter
+[33m3690d87[m HEAD@{27}: commit: passing object to workout fragment
+[33mc5bc7de[m HEAD@{28}: commit: open workout fragment when press on item
+[33m926a9a4[m HEAD@{29}: commit: add workout fragment
+[33mf9fba50[m HEAD@{30}: commit: add new train day
+[33m26fbb6c[m HEAD@{31}: commit (initial): first
